@@ -150,7 +150,7 @@ const Minter = (props) => {
         Mint NFT 2
       </button> */}
       <button id="mintButton3" onClick={mintClicked}>
-        Mint NFT 3
+        Mint NFT
       </button>
       <p id="status">
         {status}
