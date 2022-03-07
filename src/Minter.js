@@ -143,12 +143,12 @@ const Minter = (props) => {
           onChange={(event) => setName(event.target.value)}
         />
       </form>
-      <button id="mintButton" onClick={onMintPressed}>
+     {/*  <button id="mintButton" onClick={onMintPressed}>
         Mint NFT
       </button>
       <button id="mintButton2" onClick={WAPFimint}>
         Mint NFT 2
-      </button>
+      </button> */}
       <button id="mintButton3" onClick={mintClicked}>
         Mint NFT 3
       </button>
