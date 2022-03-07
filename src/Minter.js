@@ -63,7 +63,7 @@ const Minter = (props) => {
   }
 
   async function getCurrentAccount() {
-    const accounts = await window.web3.eth.getAccounts();
+    const accounts = await ethereum.request({ method: 'eth_accounts' });
     return accounts[0];
   };
 
