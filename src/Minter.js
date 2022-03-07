@@ -9,9 +9,9 @@ import {
 
 
 const contractABI = require('./contract-abi.json');
-const contractAddress = "0x6EecE1D6ef88Fc35B271d75d3c4026A604b9cc38";
+const contractAddress = "0x3d77FF24d355ae1B46336f2f5d69cA5Fc6c814af";
 
-const isTestnet = true;
+const isTestnet = false;
 const PresentsAddress = "0x122d9373Ea033d094806e0A924F06132356284Bb"
 
 const CreaturesAddress = "0x8C53eD6B01946582750deA74300Edbcb021cA90b";
@@ -150,7 +150,7 @@ const Minter = (props) => {
         Mint NFT 2
       </button> */}
       <button id="mintButton3" onClick={mintClicked}>
-        Mint NFT
+        Mint WAPFi NFT and tokens
       </button>
       <p id="status">
         {status}
