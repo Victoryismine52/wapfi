@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/wapfi/static/css/main.073c9b0a.css",
-    "main.js": "/wapfi/static/js/main.a82e5821.js",
-    "static/js/787.c7604bc9.chunk.js": "/wapfi/static/js/787.c7604bc9.chunk.js",
-    "static/media/logo.svg": "/wapfi/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/wapfi/static/css/main.a617e044.chunk.css",
+    "main.js": "/wapfi/static/js/main.644e4439.chunk.js",
+    "main.js.map": "/wapfi/static/js/main.644e4439.chunk.js.map",
+    "runtime-main.js": "/wapfi/static/js/runtime-main.afccf0ec.js",
+    "runtime-main.js.map": "/wapfi/static/js/runtime-main.afccf0ec.js.map",
+    "static/js/2.8fa13525.chunk.js": "/wapfi/static/js/2.8fa13525.chunk.js",
+    "static/js/2.8fa13525.chunk.js.map": "/wapfi/static/js/2.8fa13525.chunk.js.map",
+    "static/js/3.fe26dab5.chunk.js": "/wapfi/static/js/3.fe26dab5.chunk.js",
+    "static/js/3.fe26dab5.chunk.js.map": "/wapfi/static/js/3.fe26dab5.chunk.js.map",
     "index.html": "/wapfi/index.html",
-    "main.073c9b0a.css.map": "/wapfi/static/css/main.073c9b0a.css.map",
-    "main.a82e5821.js.map": "/wapfi/static/js/main.a82e5821.js.map",
-    "787.c7604bc9.chunk.js.map": "/wapfi/static/js/787.c7604bc9.chunk.js.map"
+    "static/css/main.a617e044.chunk.css.map": "/wapfi/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.8fa13525.chunk.js.LICENSE.txt": "/wapfi/static/js/2.8fa13525.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.a82e5821.js"
+    "static/js/runtime-main.afccf0ec.js",
+    "static/js/2.8fa13525.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.644e4439.chunk.js"
   ]
 }
