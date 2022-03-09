@@ -133,7 +133,10 @@ const Minter = (props) => {
       <br></br>
       <h1 id="title"> WAPFi NFT Minter</h1>
       <p>
-      WAPFi (Wet Ass Personal Finance) – Is the first token to launch using the Testudo Rising Floor Concept. A portion of each trade goes to a holding account to back the token in BNB. This value can be retrieved by burning a token. Later this year Testudo will be enhancing the contract to enable interest free access to the backing value through staking. Whitelisted members can mint a Wet Ass Multicoin (NFT) bellow and once the Mint Period ends
+      WAPFi (Wet Ass Personal Finance) – Is the first token to launch using the Testudo Rising Floor Concept. 
+      A portion of each trade goes to a holding account to back the token in BNB. This value can be retrieved by burning a token. 
+      Later this year Testudo will be enhancing the contract to enable interest free access to the backing value through staking. 
+      Whitelisted members can mint a Wet Ass NFT bellow and once the Mint Period ends they will be able to claim their tokens.
       </p>
       <form>
         <h2>Amount: </h2>
